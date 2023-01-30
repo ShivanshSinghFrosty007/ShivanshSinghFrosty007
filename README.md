@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShivanshSinghFrosty007
+- 👋 Hi, I’m Shivansh Singh
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me shivanshsingh0504@gmail.com
